@@ -51,7 +51,7 @@ body{
 
 .time{
     position: absolute;
-    background-color: rgba(219, 219, 219, 0.925);
+    background-color: rgba(238, 238, 238, 0.925);
     color: black;
     border-radius: 5px;
     padding: 2px;
@@ -236,4 +236,6 @@ body{
 .user-info{
     margin-top: 60px;
 }
+
+
 
